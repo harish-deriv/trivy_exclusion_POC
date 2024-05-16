@@ -1,0 +1,1 @@
+# trivy_exclusion_POC
